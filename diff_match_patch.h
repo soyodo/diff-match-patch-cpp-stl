@@ -23,15 +23,15 @@
 #ifndef DIFF_MATCH_PATCH_H
 #define DIFF_MATCH_PATCH_H
 
-//#include <limits>
-//#include <list>
-//#include <map>
-//#include <string>
-//#include <vector>
-//#include <algorithm>
-//#include <cstdlib>
-//#include <cwchar>
-//#include <time.h>
+#include <limits>
+#include <list>
+#include <map>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <cstdlib>
+#include <cwchar>
+#include <time.h>
 
 /*
  * Functions for diff, match and patch.
