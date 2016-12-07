@@ -30,4 +30,6 @@ int main(int /* argc */, char ** /* argv */) {
   dmp.diff_main(text1, text2, false);
   cout << "Elapsed time: " << int((clock() - t) * 1000 / CLOCKS_PER_SEC) << " ms" << endl;
   return 0;
+
+  // Test Song
 }
